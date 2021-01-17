@@ -4,6 +4,10 @@ description:        AI|Machine Learning|Algorithms|Robotics
 author:             Ojesh Singh
 baseurl:            "/"
 url:                "https://codedisect.github.io"
+logo:               "codedisect-logo.png"
+titlepartone:       Code
+titleparttwo:       Disect
+
 
 # Social Profiles
 twitter_username:   ojeshsingh

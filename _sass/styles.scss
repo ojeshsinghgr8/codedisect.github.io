@@ -1,2 +1,13 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+.logo{
+    box-shadow: 0px -2px 25px #eee7ee;
+    border-radius: 7px;
+}
+
+.title_second_part{
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: 100;
+}
